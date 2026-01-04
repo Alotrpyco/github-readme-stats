@@ -693,7 +693,7 @@ const repoCardLocales = {
 
 const langCardLocales = {
   "langcard.title": {
-    en: "Most Used Languages",
+    en: "Linguagens Usadas",
     ar: "أكثر اللغات استخدامًا",
     az: "Ən Çox İstifadə Olunan Dillər",
     ca: "Llenguatges més utilitzats",
